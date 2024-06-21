@@ -28,7 +28,30 @@ The MATLAB Tech Talk series helps in learning the fundamentals well, with simple
 
  [***My Summary***](https://drive.google.com/file/d/1kZdHZozLqIn2nJ-19J3um60p-mACFEdP/view?usp=drive_link)
 
-### Resources
+## Resources
  [Autonomous Navigation Playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)
  
  [Sensor Fusion Playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08ryYoBpEKzoMOveSTyS-h4a)
+
+
+ # PID Control
+While I've explored PID controllers before, Brian's approach in the MATLAB Tech Talk series offered a fresh perspective. He not only elucidated the technical intricacies of each gain but also provided insightful analogies that made the concepts truly resonate with me. This has undoubtedly become my preferred method of understanding PID control. Moreover, beyond the theoretical framework, Brian also adeptly covered practical methods for tuning the PID Controller, highlighting the advantages of each approach.
+
+ [***My Summary***](https://drive.google.com/file/d/1pWEWF48yiEOaxSA9rbN4afVpqKe-PBLH/view?usp=drive_link)
+
+ ## Resources
+ [Understanding PID Control Playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)
+
+  # Systems Engineering
+Systems Engineering has always been a fascinating subject for me. However, I often notice that job postings for systems engineers vary significantly in their requirements and responsibilities. I enrolled in this course to gain a solid understanding of the fundamentals of systems engineering, and it has been incredibly effective in achieving that goal. 
+The course topics were: 
+-           What is Systems Engineering?
+-           Towards a Model-Based Approach.
+-           The Benefits of Functional Architectures.
+-           An Introduction to Requirements
+-           Some Benefits of Model-Based Systems Engineering.
+
+ [***My Summary***](https://drive.google.com/file/d/1fBJ0QyE63P5BtWxWHZJ9UvTVfTQvmsZ_/view?usp=drive_link)
+
+ ## Resources
+ [Systems Engineering - Coursera](https://www.coursera.org/learn/systems-engineering-mathworks?)
