@@ -1,5 +1,6 @@
-# Courses-Summaries
+# Course-Summaries
 This repo contains several summaries I made while studying topics mainly in robotics and control systems.
+---
 
 # Kinematics & Dynamics: Differential Drive Vehicles, Omniwheels, and Quadcopters
 As a robotics enthusiast, I've recognized a gap in my knowledge concerning certain aspects of robotics, particularly in areas like Differential Drive and Omniwheels Vehicles, as well as quadcopters. While I've developed a strong understanding of robot arm kinematics and can implement models with ROS, I realized the importance of diving deeper into these other areas to gain a comprehensive grasp of robot control.
@@ -42,6 +43,7 @@ While I've explored PID controllers before, Brian's approach in the MATLAB Tech 
  ## Resources
  [Understanding PID Control Playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)
 
+
   # Systems Engineering
 Systems Engineering has always been a fascinating subject for me. However, I often notice that job postings for systems engineers vary significantly in their requirements and responsibilities. I enrolled in this course to gain a solid understanding of the fundamentals of systems engineering, and it has been incredibly effective in achieving that goal. 
 The course topics were: 
@@ -55,3 +57,23 @@ The course topics were:
 
  ## Resources
  [Systems Engineering - Coursera](https://www.coursera.org/learn/systems-engineering-mathworks?)
+
+
+
+  # Mathmatics for Machine Learning: Linear Algebra
+The Course covered: 
+- Operations on vectors
+- Vector Projection
+- Basis, vector space, and linear algebra.
+- Einestein Summation Convention
+- Matrices Changing Basis
+- The Gram-Schmidt Process
+- Eigenvalues, Eigenvectors and Eigenbasis
+- Diagonalisation
+- Page Rank Algorithm
+
+ [***My Summary***](https://drive.google.com/file/d/1D0aF5Mys_A32Cu2byC0kRfjUG2nLPjVC/view?usp=drive_link)
+
+ ## Resources
+ [Mathmatics for Machine Learning: Linear Algebra - Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
+
