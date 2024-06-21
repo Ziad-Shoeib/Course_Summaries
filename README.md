@@ -1,5 +1,6 @@
 # Course-Summaries
 This repo contains several summaries I made while studying topics mainly in robotics and control systems.
+
 ---
 
 # Kinematics & Dynamics: Differential Drive Vehicles, Omniwheels, and Quadcopters
@@ -91,3 +92,32 @@ The Course covered:
  [Mathmatics for Machine Learning: Linear Algebra - Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
 
 ---
+
+# Swarm Robotics: A Formal Approach Book notes 
+This is an interesting book for learning swarm robotics and getting to know many basics. I gathered several research papers, and textbooks covering different aspects of swarm robotics, and looked into various projects involving swarm robots. I believe these resources can be helpful for anyone just starting to learn about the field and wanting to understand the basics of swarm robots.
+
+ [***My Notes***](https://drive.google.com/file/d/1uX5x2vxxXwdVMAjwCpL25e_LorBNrUy5/view?usp=drive_link)
+ [***Swarm Robotics Learning Resources***](https://drive.google.com/drive/folders/1q8TlVSWaL7bq-LajcFWbuz2rWdY57J9y)
+
+ ## Resources
+ [Swarm Robotics: A Formal Approach Book-Springer](https://link.springer.com/book/10.1007/978-3-319-74528-2)
+
+ ---
+
+# Internal Combustion Engine and Car Parts
+I needed to learn about car parts in a hurry, so I wrote some notes regarding several topics and links for resources explaining each topic.
+
+ [***My Notes***](https://docs.google.com/document/d/1Wqg9sh6IQ-3QSBcjSNYiXS34Bk949NsV/edit?usp=drive_link&ouid=108263097323156158338&rtpof=true&sd=true)
+
+
+ ---
+
+# IELTS 
+I undertook the IELTS examination, a prerequisite for several applications. Facing the challenge of a tight timeframe, I devoted a mere 5 days to familiarize myself with the exam's intricacies. To my delight, the outcome exceeded expectations with a commendable total score of 7.5 (Reading: 9.00, Listening: 8.5, Writing: 6.5, Speaking: 6.5). While I consider myself fortunate for the favorable result, I observed a prevailing perception that such an achievement was nearly unattainable. Reflecting on the exam's structure, I perceive it to be like any other assessment, comprising both technical knowledge and strategic techniques.
+
+ [***My Notes***](https://drive.google.com/file/d/1K1hH2xPiVFR0cZRIeTEMFygbsy6UscmI/view?usp=drive_link)
+
+ ## Resources
+ IELTS Ready Premium
+ [aدليلك للايلتس youtube channel](https://www.youtube.com/@dalilk4ielts/playlists)
+ [E2 IELTS Youtube Channel](https://www.youtube.com/@E2IELTS)
