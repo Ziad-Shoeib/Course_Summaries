@@ -45,11 +45,11 @@ While I've explored PID controllers before, Brian's approach in the MATLAB Tech 
   # Systems Engineering
 Systems Engineering has always been a fascinating subject for me. However, I often notice that job postings for systems engineers vary significantly in their requirements and responsibilities. I enrolled in this course to gain a solid understanding of the fundamentals of systems engineering, and it has been incredibly effective in achieving that goal. 
 The course topics were: 
--           What is Systems Engineering?
--           Towards a Model-Based Approach.
--           The Benefits of Functional Architectures.
--           An Introduction to Requirements
--           Some Benefits of Model-Based Systems Engineering.
+- What is Systems Engineering?
+- Towards a Model-Based Approach.
+- The Benefits of Functional Architectures.
+- An Introduction to Requirements
+- Some Benefits of Model-Based Systems Engineering.
 
  [***My Summary***](https://drive.google.com/file/d/1fBJ0QyE63P5BtWxWHZJ9UvTVfTQvmsZ_/view?usp=drive_link)
 
