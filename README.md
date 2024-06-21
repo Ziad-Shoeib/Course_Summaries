@@ -23,6 +23,7 @@ As a robotics enthusiast, I've recognized a gap in my knowledge concerning certa
 7. [Mathematical model of a Quadcopter - Part 1](https://www.youtube.com/watch?v=9eyQyCqHOyg)
 
 
+
 ## Autonmous Navigation & Sensor Fusion 
 The MATLAB Tech Talk series helps in learning the fundamentals well, with simple explanation methods, done by Brian Douglas.
 
