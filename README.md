@@ -1,7 +1,7 @@
 # Courses-Summaries
 This repo contains several summaries I made while studying topics mainly in robotics and control systems.
 
-## Kinematics & Dynamics: Differential Drive Vehicles, Omniwheels, and Quadcopters
+# Kinematics & Dynamics: Differential Drive Vehicles, Omniwheels, and Quadcopters
 As a robotics enthusiast, I've recognized a gap in my knowledge concerning certain aspects of robotics, particularly in areas like Differential Drive and Omniwheels Vehicles, as well as quadcopters. While I've developed a strong understanding of robot arm kinematics and can implement models with ROS, I realized the importance of diving deeper into these other areas to gain a comprehensive grasp of robot control.
 
  [***My Summary***](https://drive.google.com/file/d/1vi-QW3c6THnL9cxuICGaizbWky-_dwvt/view?usp=drive_link)
@@ -23,8 +23,7 @@ As a robotics enthusiast, I've recognized a gap in my knowledge concerning certa
 7. [Mathematical model of a Quadcopter - Part 1](https://www.youtube.com/watch?v=9eyQyCqHOyg)
 
 
-
-## Autonmous Navigation & Sensor Fusion 
+# Autonmous Navigation & Sensor Fusion 
 The MATLAB Tech Talk series helps in learning the fundamentals well, with simple explanation methods, done by Brian Douglas.
 
  [***My Summary***](https://drive.google.com/file/d/1kZdHZozLqIn2nJ-19J3um60p-mACFEdP/view?usp=drive_link)
