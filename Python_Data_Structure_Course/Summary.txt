@@ -1,0 +1,45 @@
+
+1. **List**:
+   - Lists are ordered collections of items.
+   - They are mutable, meaning you can change their elements after they have been created.
+   - Lists are created using square brackets `[]`.
+   - They are suitable for storing collections of items where the order matters and duplicates are allowed.
+   - Common operations include appending, removing, and accessing elements by index.
+   - Example: `my_list = [1, 2, 3, 4, 5]`
+
+2. **Tuple**:
+   - Tuples are ordered collections of items, similar to lists.
+   - They are immutable, meaning once created, their elements cannot be changed.
+   - Tuples are created using parentheses `()`.
+   - They are suitable for storing fixed collections of items where immutability is desired.
+   - Common operations include accessing elements by index.
+   - Example: `my_tuple = (1, 2, 3, 4, 5)`
+
+3. **Set**:
+   - Sets are unordered collections of unique items.
+   - They are mutable, meaning you can add or remove items after they have been created.
+   - Sets are created using curly braces `{}` or the `set()` function.
+   - They are suitable for storing collections of unique items where the order does not matter.
+   - Common operations include adding, removing, and testing for membership.
+   - Example: `my_set = {1, 2, 3, 4, 5}`
+
+4. **Dictionary**:
+   - Dictionaries are unordered collections of key-value pairs.
+   - They are mutable and can be changed after creation.
+   - Dictionaries are created using curly braces `{}` with key-value pairs separated by colons `:`.
+   - They are suitable for storing mappings of unique keys to values.
+   - Common operations include adding, removing, and accessing items by key.
+   - Example: `my_dict = {'a': 1, 'b': 2, 'c': 3}`
+
+Here's a summary table for quick reference:
+
+| Data Structure | Ordered? | Mutable? | Duplicate Elements? | Syntax          | Use Cases                                     |
+|----------------|----------|----------|---------------------|-----------------|-----------------------------------------------|
+| List           | Yes      | Yes      | Yes                 | `[ ]`           | Storing collections where order matters      |
+| Tuple          | Yes      | No       | Yes                 | `( )`           | Immutable collections                         |
+| Set            | No       | Yes      | No                  | `{ }` / `set()` | Storing unique elements, set operations       |
+| Dictionary     | No       | Yes      | Keys must be unique | `{ }`           | Storing key-value mappings                    |
+
+Each data structure has its own strengths and use cases, so it's important to choose the appropriate one based on your specific needs.
+
+Check: https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/
