@@ -118,6 +118,8 @@ I undertook the IELTS examination, a prerequisite for several applications. Faci
  [***My Notes***](https://drive.google.com/file/d/1K1hH2xPiVFR0cZRIeTEMFygbsy6UscmI/view?usp=drive_link)
 
  ## Resources
-  IELTS Ready Premium.
-  [aدليلك للايلتس youtube channel](https://www.youtube.com/@dalilk4ielts/playlists)
-  [E2 IELTS Youtube Channel](https://www.youtube.com/@E2IELTS)
+1. [aدليلك للايلتس youtube channel](https://www.youtube.com/@dalilk4ielts/playlists)
+2. [E2 IELTS Youtube Channel](https://www.youtube.com/@E2IELTS)
+3. IELTS Ready Premium.
+
+---
